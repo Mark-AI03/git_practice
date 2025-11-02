@@ -1,0 +1,31 @@
+car_id,make,model,model_year,trim_level,exterior_color,transmission,fuel_type,infotainment_system,msrp
+C024,Ford,Explorer,2013,Base,,dual clutch,hybrid,Touchscreen,N/A
+C004,BMW, X3  ,2014,Base,Silver,dual clutch,diesel,Premium Audio,60500
+C008,Tesla,Model X,2021,Base,White,Automtic,electric,Navigation,30000
+C001,Ford,Fusion,2023,Base,Red,Automtic,hybrid,Basic Audio,47000
+C006,BMW, X3  ,2022,Base,White,automatic,diesel,Premium Audio,N/A
+C018,Honda,CR-V,2015,Premium,Blue,CVT,diesel,Navigation,29500
+C008,Tesla,Model X,2021,Base,White,Automtic,electric,Navigation,30000
+C003,Tesla,Model S,2013,Sport,White,dual clutch,hybrid,Navigation,58000
+C010,Honda,Civic,2018,Premium,White,manual,gasoline,Touchscreen,N/A
+C007,Tesla, Model X  ,2019,Premium,,dual clutch,diesel,Touchscreen,"$67,000"
+C021,Ford,Focus,2016,Base,Black,automatic,electric,Basic Audio,60500
+C009,Tesla,Model S,2022,Base,Red,manual,electric,Touchscreen,45000
+C012,Honda,CR-V,2018,luxary,Red,manual,gasoline,Touchscreen,50500
+C015,BMW,X5,2018,Limited,,dual clutch,diesel,Touchscreen,N/A
+C014,BMW,X3,2021,Sport,Red,automatic,gasoline,Touchscreen,31500
+C002,Tesla,Model S,2022,Limited,,manual,gasoline,Touchscreen,58500
+C003,Tesla,Model S,2013,Sport,White,dual clutch,hybrid,Navigation,58000
+C010,Honda,Civic,2018,Premium,White,manual,gasoline,Touchscreen,N/A
+C010,Honda,Civic,2018,Premium,White,manual,gasoline,Touchscreen,N/A
+C016,Tesla,Model S,2023,Limited,Red,automatic,diesel,Touchscreen,42500
+C011,Ford,Escape,2018,Sport,Silver,Automtic,diesel,Touchscreen,32500
+C013,BMW,X5,2015,Limited,Gray,CVT,gasoline,Navigation,52500
+C020,Ford, Escape  ,2015,Premuim,Blue,dual clutch,gasolen,Navigation,N/A
+C023,BMW, M3  ,2019,Premium,Gray,manual,diesel,Premium Audio,56500
+C022,Toyota,Camry,2017,Premuim,,manual,hybrid,Navigation,"$34,500"
+C005,Tesla, Model Y  ,2020,Base,Red,CVT,electric,,59000
+C025,Toyota,RAV4,2018,Sport,Red,AUTOMATIC,electric,Basic Audio,N/A
+C021,Ford,Focus,2016,Base,Black,automatic,electric,Basic Audio,60500
+C017,Tesla,Model 3,2017,Limited,Silver,dual clutch,diesel,Premium Audio,66000
+C019,Ford,Explorer,2018,Premium,Red,manuall,gasoline,Premium Audio,34500

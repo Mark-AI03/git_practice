@@ -1,0 +1,10 @@
+Data diagnosis report
+- Rows: 30
+- Columns: 10
+- Duplicate rows detected: 5
+- Columns containing null values: exterior_color (5), infotainment_system (1), msrp (8)
+- 6 values in 'model' have leading/trailing spaces
+- Unexpected values in 'trim_level': Premuim, luxary
+- Unexpected values in 'transmission': AUTOMATIC, Automtic, manuall
+- Unexpected values in 'fuel_type': gasolen
+- 'msrp' contains 10 non-numeric values
